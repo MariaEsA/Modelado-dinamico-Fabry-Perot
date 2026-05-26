@@ -1,5 +1,5 @@
 # Interferómetro Fabry–Pérot
-# 👥 Autores
+# Autores
 
 Proyecto desarrollado para la asignatura de **Ecuaciones Diferenciales**.
 
@@ -8,12 +8,12 @@ Realizado por: María Estupiñan
 Profesor: Luis Muñoz
 ## Modelado mediante ecuaciones diferenciales, resonancia óptica y Transformada de Laplace
 
-# 📖 Descripción del proyecto
+# Descripción del proyecto
 
 Este proyecto presenta el modelado matemático y computacional de un interferómetro Fabry–Pérot utilizando herramientas de ecuaciones diferenciales, electromagnetismo y óptica física. El trabajo parte de las ecuaciones de Maxwell para obtener la ecuación de onda electromagnética y posteriormente desarrolla una analogía entre el resonador óptico y un oscilador armónico amortiguado forzado.
 
 ---
-# 🎯 Objetivos
+# Objetivos
 
 * Modelar el interferómetro Fabry–Pérot mediante ecuaciones diferenciales.
 * Derivar la ecuación de onda a partir de las ecuaciones de Maxwell.
@@ -22,7 +22,7 @@ Este proyecto presenta el modelado matemático y computacional de un interferóm
 * Obtener una función de transferencia usando Transformada de Laplace.
 * Comparar simulaciones computacionales con resultados experimentales.
 ---
-# 🧠 Fundamento teórico
+# Fundamento teórico
 
 El proyecto se basa en:
 
@@ -36,7 +36,7 @@ El proyecto se basa en:
 * Funciones de transferencia
 ---
 
-# 🧪 Experimento
+# Experimento
 
 Se realizó un montaje experimental de un interferómetro Fabry–Pérot utilizando fuentes láser de:
 
@@ -54,15 +54,15 @@ Los resultados experimentales fueron posteriormente comparados con simulaciones 
 
 El código implementado permite generar:
 
-✅ Función de Airy
-✅ Patrones de interferencia Fabry–Pérot
-✅ Curvas resonantes
-✅ Comparación experimental de colapsos
-✅ Dependencia entre longitud de onda y resonancia
+-Función de Airy
+-Patrones de interferencia Fabry–Pérot
+-Curvas resonantes
+-Comparación experimental de colapsos
+-Dependencia entre longitud de onda y resonancia
 
 ---
 
-# 📊 Resultados principales
+# Resultados
 
 * Las simulaciones mostraron concordancia cualitativa con los resultados experimentales.
 * Se verificó experimentalmente que longitudes de onda menores producen una mayor densidad de resonancias.
@@ -70,7 +70,7 @@ El código implementado permite generar:
 
 ---
 
-# 🛠️ Herramientas utilizadas
+# Herramientas utilizadas
 
 * Python
 * NumPy
